@@ -1,3 +1,8 @@
 name = "multiusertest"
 main = "src/index.ts"
 compatibility_date = "2022-08-30"
+
+
+kv_namespaces = [
+    { binding = "test2", id = "1cdb06f1ef3242ec8f50e063e7d03414", preview_id = "363793b76a264997a70d9d0793cfb0fd" },
+]
